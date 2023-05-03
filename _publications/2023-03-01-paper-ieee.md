@@ -1,5 +1,5 @@
 ---
-title: 'It sets boundaries'
+title: 'It sets boundaries Making Your Life Personal and More Comfortable: Understanding Young People’s Privacy Needs and Concerns'
 collection: publications
 permalink: /publication/2023-03-01-paper-ieee
 excerpt: 'Children and young people are prolific digital users, making up a third of the world’s online users [1] and engaging with the digital world in different and distinct ways. However, their unique understandings and perspectives are often not considered in debates and discussions around privacy and security [2] . This article outlines a youth-centric notion of digital privacy and guiding principles around privacy developed by young people from Antigua and Barbuda, Australia, Ghana, and Slovenia.'
