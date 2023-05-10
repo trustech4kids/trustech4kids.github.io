@@ -3,7 +3,7 @@ title: "Podcast by young people from Slovenia"
 collection: podcast
 type: "Podcast"
 permalink: /talks/2023-slo
-date: 2023
+date: 2023-01
 location: "podcast"
 ---
 
