@@ -1,6 +1,7 @@
 ---
 layout: item
 title: Geneveive Smith-Nunes
+collection: people
 img: images/Genevieve.jpg
 position: UK lead
 ext-url: https://www.researchgate.net/profile/Genevieve-Smith-Nunes
