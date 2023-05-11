@@ -1,6 +1,7 @@
 ---
 layout: item
 title: Kadian Camacho
+collection: people
 img: images/Kadian.jpeg
 position: Antigua and Barbuda lead
 ---
