@@ -2,7 +2,7 @@
 layout: item
 title: Geneveive Smith-Nunes
 collection: people
-permalink: people/Genevieve
+permalink: /people/Genevieve
 img: images/Genevieve.jpg
 position: UK lead
 ext-url: https://www.researchgate.net/profile/Genevieve-Smith-Nunes
