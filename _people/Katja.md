@@ -1,6 +1,7 @@
 ---
 layout: item
 title: Katja Koren Ošljak
+collection: people
 img: images/Katja.jpeg
 position: Slovenia lead
 ext-url: https://www.fdv.uni-lj.si/en/news-and-information/contacts/researchers/info/katja-koren-osljak/
