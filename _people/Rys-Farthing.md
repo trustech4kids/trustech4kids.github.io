@@ -1,6 +1,7 @@
 ---
 layout: item
 title: Rys Farthing
+collection: people
 img: images/Rys.jpeg
 position: Australian lead
 ext-url: https://rysfarthing.com
