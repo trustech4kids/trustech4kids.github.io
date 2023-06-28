@@ -1,7 +1,7 @@
 ---
 title: 'It sets boundaries Making Your Life Personal and More Comfortable: Understanding Young People’s Privacy Needs and Concerns'
 collection: publications
-permalink: /publication/2023-03-01-paper-ieee
+permalink: 'https://10.1109/MTS.2023.3244554'
 excerpt: "Comparative journal article: It Sets Boundaries Making Your Life Personal and More Comfortable: Understanding Young People's Privacy Needs and Concerns"
 date: "2023-03-01"
 venue: 'In IEEE Technology and Society Magazine'
