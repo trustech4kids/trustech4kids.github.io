@@ -29,6 +29,8 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+       {% elsif post.collection == 'publications' %}
+          <a href="{{ post.permalink }}" rel="permalink">{{ post.venue }}</a>
       {% else %}
         <a href="{{ post.permalink }}" rel="permalink">{{ title }}</a>
       {% endif %}
