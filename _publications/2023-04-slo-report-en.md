@@ -1,7 +1,7 @@
 ---
 title: "Slovenia Research report in English"
 collection: publications
-permalink: /publication/2023-04-slo-report-en
+permalink: "https://trustech4kids.github.io/files/SLOReportENG202304.pdf"
 excerpt: "Ošljak, KK. & Farthing, R. 2023 Young people, privacy & trust"
 date: "2023-04-01"
 paperurl: "https://trustech4kids.github.io/files/SLOReportENG202304.pdf"
