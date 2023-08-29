@@ -1,6 +1,7 @@
 ---
 title: "Activities to support young people to think about data footprints & privacy"
 excerpt: "Privacy methods"
+permalink: /portfolio/privacy
 collection: portfolio
 ---
 
