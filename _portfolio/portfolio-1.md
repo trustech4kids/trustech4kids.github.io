@@ -10,7 +10,8 @@ collection: portfolio
 - [Privacy in a digital age – understanding the potential exposure of your data footprint](#id-section2)
 - [Privacy in a digital age – understanding what privacy means to the group, in an online world](#id-section3)
 
-<div id='id-section1'/>  
+<div id='id-section1'/>
+  
 ## Concept: Privacy in a digital age – understanding the potential size of your data footprint
 **Example activities: Quickfire footprint warm up** 
 
@@ -40,6 +41,7 @@ Use a drawing of a foot on a white board, or a piece of poster paper with the ou
 The foot needs to be divided into between 5 and 20 segments, to colour in everytime a young person offers an answer.
 
 <div id='id-section2'/>
+  
 ## Concept: Privacy in a digital age – understanding the potential exposure of your data footprint
 **Example activities: Magic 4s/8s**
 
@@ -69,6 +71,7 @@ Between 10 min if you want to keep it fast, to 30 minutes if you want depth. At 
 * We had novelty buzzers to press at the end of 3 minutes, which gave it a fun-game show type vibe too.
 
 <div id='id-section3'/>
+  
 ## Concept: Privacy in a digital age – understanding what privacy means to the group, in an online world
 **Example activities: Creating a definition of privacy**
 
