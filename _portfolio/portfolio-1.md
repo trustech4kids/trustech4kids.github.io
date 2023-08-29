@@ -5,6 +5,9 @@ permalink: /portfolio/privacy
 collection: portfolio
 ---
 
+Aim of these activities: Participants have critically thought about the nature and scale of their digital footprint, and what privacy means to them against this datafied backdrop.
+
+
 # Methods
 - [Privacy in a digital age – understanding the potential size of your data footprint](#id-section1)
 - [Privacy in a digital age – understanding the potential exposure of your data footprint](#id-section2)
