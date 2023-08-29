@@ -23,11 +23,11 @@ Discussion points for the end:
 * Would we want everyone to be able to see this information?
 * How much data do we think advertisers hold about us, by the time we turn 12? Take a guess,  explain that others have guessed it’s 72 million data points etc
 
-**Time taken** 
+**Time taken:** 
 
 Between 10 min if you want to keep it fast, to 30 minutes, if you want depth. Keep in mind, at 30 minutes it might feel quite long and boring, so make sure you’ve got prizes, prompts or have set a fun ambitious target for the group to meet, ready to keep the group going.
 
-**Resources needed** 
+**Resources needed:** 
 
 Use a drawing of a foot on a white board, or a piece of poster paper with the outline of a foot drawn on it, or a slide deck with a giant foot outline.
 
@@ -54,10 +54,10 @@ Discussion prompts:
 * Who would you want to see all your data, if you could pick?
 
 
-**Time taken** 
+**Time taken:** 
 Between 10 min if you want to keep it fast, to 30 minutes if you want depth. At 30 minutes, you’ll need lots of prompts and discussion points
 
-**Resources needed** 
+**Resources needed:** 
 * A piece of paper per young person—coloured paper always makes this activity feel slightly less boring, and some pens for them to write with. 
 * We always go with new, coloured Sharpies. Nothing screams “we’re not really interested in what you have to say and we don’t really think you’re important” than turning up with a packet of half dead pens and broken pencils. This is about setting the tone for the session, and showing the young people that you respect their input as much as you would with an elite level interviewees.
 * We had novelty buzzers to press at the end of 3 minutes, which gave it a fun-game show type vibe too.
@@ -76,8 +76,8 @@ If you have a large group, you can break into pairs to do this first, by asking 
 
 In our project, we ended this section by explaining that this was an issue that a lot of young people cared about, and were able to share some survey data we had done with the group.
 
-**Time taken** 
+**Time taken:** 
 10-30 minutes
 
-**Resources needed** 
+**Resources needed:** 
 A piece of poster paper, a whiteboard, or a slide with the text:  *Online privacy (noun): Means when young people ...* written on it. For a large group, multiple papers, board space, or A4 paper to write initial small groups' definitions on might be needed. A large group will also need pens.
