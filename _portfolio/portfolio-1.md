@@ -32,3 +32,33 @@ Between 10 min if you want to keep it fast, to 30 minutes, if you want depth. Ke
 Use a drawing of a foot on a white board, or a piece of poster paper with the outline of a foot drawn on it, or a slide deck with a giant foot outline.
 
 The foot needs to be divided into between 5 and 20 segments, to colour in everytime a young person offers an answer.
+
+
+## Concept: Privacy in a digital age – understanding the potential exposure of your data footprint
+**Example activities: Magic 4s/8s**
+
+Fold a piece of paper in half, then half it again so you’ve got 4 squares on your page, or 8 if you’ve got more time. These are your magic 4 or 8 squares to help us get creative.
+
+Set a fast-paced time limit and ask “in 3 minutes, fill in a square for everyone you can think of who sees your data footprint online?” 
+
+As they’re working, or afterwards, feel free to give the group some prompts, if you feel like they are drying up on ideas. For example, “has anyone said their friends could see it?” “What about Google?” “Did anyone say their family could see it?” etc.
+
+Once time is up, ask the young people to hold up all the pieces of paper they have in their hands and wave them, like a big fan. You can ask people to read some of their suggestions to flesh out the idea that a lot of different actors have access to your data footprint.
+
+If you’ve got to move fast and have no time for discussion, you could end with a “Whoa, look around at all the people who can see your data online waving around. I can feel the breeze from here! That’s a lot of people who can see your data footprint”  type comment.
+
+Discussion prompts:
+* Who do we want to see all our data? Did anyone have people they did want to see their data, or people they did not want to see their data?
+* What do we feel about this?
+* Does it feel right or wrong? Or both?
+* Who would you want to see all your data, if you could pick?
+
+
+**Time taken** 
+Between 10 min if you want to keep it fast, to 30 minutes if you want depth. At 30 minutes, you’ll need lots of prompts and discussion points
+
+**Resources needed** 
+* A piece of paper per young person—coloured paper always makes this activity feel slightly less boring, and some pens for them to write with. 
+* We always go with new, coloured Sharpies. Nothing screams “we’re not really interested in what you have to say and we don’t really think you’re important” than turning up with a packet of half dead pens and broken pencils. This is about setting the tone for the session, and showing the young people that you respect their input as much as you would with an elite level interviewees.
+* We had novelty buzzers to press at the end of 3 minutes, which gave it a fun-game show type vibe too.
+
