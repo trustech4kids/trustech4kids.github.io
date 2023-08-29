@@ -5,7 +5,8 @@ excerpt: "Think about who they could share their ideas with, and what change-mak
 permalink: /portfolio/policy
 collection: portfolio
 ---
-Aim of these activities: Participants will start to think about who they could share their ideas with, and what change-making they might want to be a part of after this activity
+
+Aim of these activities: Participants will start to think about who they could share their ideas with, and what change-making they might want to be a part of after this activity.
 
 ## Concept: Opportunities to share your thoughts and be involved in change making
 **Example activities: Impact brainstorm and workshop** 
